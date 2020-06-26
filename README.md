@@ -33,7 +33,7 @@ module.exports.info = {
 }
 
 module.exports.comando = (bot, msg, args) => {
-    //Aqui é onde ocorre a magina, pois, tudo o que for criado neste bloco será executado ao chamar o comando.
+    //Aqui é onde ocorre a magica, pois, tudo o que for criado neste bloco será executado ao chamar o comando.
 }
 ```
 
