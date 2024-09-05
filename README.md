@@ -1,4 +1,4 @@
-# Repositorio de Bot para Whatsapp usando a API [whatsapp-web.js](https://pedroslopez.me/whatsapp-web.js/).
+# Bot para Whatsapp usando a API [whatsapp-web.js](https://pedroslopez.me/whatsapp-web.js/).
 
 > **Parei de usar whatsapp** ou seja, sem atualização por aqui.
 
