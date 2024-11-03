@@ -37,9 +37,6 @@ module.exports.comando = (bot, msg, args) => {
 }
 ```
 
-![N|Solid](https://cdn.discordapp.com/attachments/539435716011360286/725946860878954547/unknown.png)
-
-
 
 **Obrigado pela sua atenção!**
 	
